@@ -41,7 +41,10 @@
     <label for="roll" class="form-label">Roll #</label>
     <input type="roll" name = "roll" class="form-control" id="roll">
   </div><br>
-
+  <div class="mb-3">
+    <label for="identity" class="form-label">Identity #</label>
+    <input type="identity" name = "identity" class="form-control" id="identity">
+  </div><br>
 <input type="submit" class="btn btn-primary"><br><br>
 <a href="{{url('/main')}}">Show Data</a>
 </form>
