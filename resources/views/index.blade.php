@@ -43,6 +43,7 @@
   </div><br>
   <div class="mb-3">
     <label for="identity" class="form-label">M/F</label>
+    <label for="identity" class="form-label">Male/Female</label>
     <input type="identity" name = "identity" class="form-control" id="identity">
   </div><br>
 <input type="submit" class="btn btn-primary"><br><br>
